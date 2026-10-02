@@ -67,4 +67,4 @@ DataAnalytics-L1-CustomerSegmentation/
 ├── customer_segmentation.ipynb   # Main Jupyter Notebook with code & visualizations
 ├── online_retail.csv             # Cleaned transactional dataset
 └── README.md                     # Project documentation
-```
+```  
